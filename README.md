@@ -78,14 +78,18 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 4. 🥞 Hotcakes Flip NStaxx
-> **Role:** Slot Game Developer | **Stack:** TypeScript, PixiJS, Custom Reel Engine, Keyframe & Sprite Animations, GSAP
+> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Spine 2D, Keyframe Controller, Sprite Sheet Animations, GSAP
 
-👉 **[🎮 Play Live Demo on Lightning Box](https://www.lightningboxgames.com/games/hotcakes-flip-nstaxx/)** *(Update link if exact URL available)*
+| Jackpot Pick Feature | Spatula Flip & Respin Mechanic |
+| :---: | :---: |
+| ![Jackpot Feature](./assets/hotcakes-jp.gif) | ![Respins Feature](./assets/hotcakes-respins.gif) |
 
-**Technical Highlights & Features:**
-- Developed the **Flip NStaxx cascading symbol physics** using custom keyframe controllers paired with sprite sheet flipping animations.
-- Custom reel-spin easing algorithms for realistic deceleration and elastic bounce effects.
-- Asset loading and texture packing optimizations using **WebP image formats**, significantly reducing network payload and load times under 2 seconds.
+**Technical Highlights & Core Features:**
+- **Hybrid Animation Jackpot System:** Architected the interactive Jackpot Pick Feature utilizing a synchronized combination of **Spine 2D skeletal animations**, **Custom Keyframe Controllers**, and **Sprite Sheet Animations** to deliver rich visual feedback.
+- **Interactive Spatula Flip & Cooking Physics:** Developed the signature Respin mechanic where landed pancake symbols are flipped using a spatula sprite animation to convey a realistic cooking/baking transition upon landing.
+- **Collector Mini-Feature Trigger:** Built accumulator state logic to track spatula symbols; collecting 6 pancake symbols dynamically triggers a specialized bonus mini-feature round.
+- **Custom Reel Spin Physics & Easing:** Implemented custom deceleration algorithms and elastic bounce easing for realistic symbol stops.
+- **Asset Pipeline Optimization:** Optimized texture atlases using **WebP image formats**, achieving sub-2-second initial loading times across mobile and desktop platforms.
 
 ---
 
