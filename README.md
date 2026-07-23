@@ -89,12 +89,14 @@ Below are flagship slot projects developed for international markets, highlighti
 
 ---
 
-### 5. 🏎️ Stuntstars
-> **Role:** Slot Game Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle Systems, Spine API, FFmpeg
+### 5. 🥁 Thunder Drums Series (Leaping Lions & Samurai Storm)
+> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Spine 2D API, Multi-Pot Accumulator, Particle VFX, GSAP
 
-👉 **[🎮 Play Live Demo on Lightning Box](https://www.lightningboxgames.com/games/stuntstars/)** *(Update link if exact URL available)*
+👉 **[🎮 Play Live Demo: Thunder Drums Leaping Lions](https://igaming.lnw.com/games/thunder-drums-leaping-lions/)**  
+👉 **[🎮 Play Live Demo: Thunder Drums Samurai Storm](https://igaming.lnw.com/games/thunder-drums-samurai-storm-2/)**
 
-**Technical Highlights & Features:**
-- Integrated high-action Spine animations with reactive audio-visual feedback systems, custom particle trails (smoke, fire, sparks), and sprite overlays.
-- Built automated audio pack workflows using **FFmpeg** to generate optimized audio sprites, eliminating audio concurrency issues and duplicate sound triggers.
-- High-FPS performance optimization across desktop, iOS, and Android mobile browsers.
+**Technical Highlights & Architecture:**
+- **Pioneered the "Thunder Drums" Framework:** Architected the inaugural UI layout and core feature engine for *Thunder Drums Leaping Lions* (the first title with this unique visual layout for L&W), which became the foundation for subsequent series entries such as *Thunder Drums Samurai Storm* and *Thunder Drums Serengeti Sun*.
+- **Color-Coded Multi-Pot Accumulator Mechanics:** Built a 3-drum top housing array with dynamic particle projection math—routing color-matched thunder symbols from base reels directly into their corresponding drums.
+- **Dynamic Drum Scaling & Multi-Feature Triggers:** Developed responsive scaling algorithms and drum-beating animations that dynamically trigger independent or combined bonus features based on state machine evaluations.
+- **Seamless Spine Scene Transitions:** Engineered smooth, state-driven visual transitions switching from the base game reel set to feature intro scenes using rich Spine 2D skeletal animations.
