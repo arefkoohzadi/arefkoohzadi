@@ -63,16 +63,17 @@ Below are flagship slot projects developed for international markets, highlighti
 
 ---
 
-### 3. 🥚 Egglink One Hundred XRA
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle Emitters, Vue.js
+### 3. 🐔 Chicken Fox & Egglink Series (Original Feature Creator)
+> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle VFX, Custom Trajectory Physics, Vue.js
 
-<!-- REPLACE WITH GIF OR DEMO LINK -->
-![Egglink 100 XRA Gameplay](https://via.placeholder.com/800x400/0f172a/38bdf8?text=Add+GIF+or+Video+Demo+Here)
+👉 **[🎮 Play Live Demo: Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)**  
+👉 **[🎮 Play Live Demo: Stellar Cash Chicken Fox 5x](https://igaming.lnw.com/games/stellar-cash-chicken-fox-5x-skillstar-us/)**
 
-**Technical Highlights & Features:**
-- Implemented the proprietary **Egglink accumulator mechanic** with dynamic multiplier displays and particle-based energy effects.
-- Developed robust GDM (Game Data Model) state translators to map backend response payloads to UI and hybrid animation sequences seamlessly.
-- Designed smooth number-counter animations and custom GSAP-driven UI transitions using reusable Vue/Pixi UI components.
+**Technical Highlights & Architecture:**
+- **Pioneered & Built the Original "Egglink" Accumulator Mechanic:** Architected and developed the first-ever Egglink feature implementation starting with *Egglink Chicken Fox*, which established a core mechanics engine used in subsequent spin-off titles (e.g., *Egglink One Hundred XRA*, *Egglink Silver Pride*).
+- **Complex Projectile & Particle Physics:** Engineered the top-roof accumulator system where egg symbols launch particles/sprites from reels into the upper housing array. Built custom trajectory & acceleration math for the feature trigger phase, animating dozens of falling eggs covering the entire view smoothly at 60 FPS.
+- **Game Family Evolution:** Developed multiple high-performing titles in the franchise including *Chicken Fox Jr* and *Stellar Cash Chicken Fox 5x Skillstar*.
+- **GDM Response Translation:** Developed robust backend state translators to process dynamic payload responses into sequential visual accumulator steps and multi-stage feature triggers.
 
 ---
 
