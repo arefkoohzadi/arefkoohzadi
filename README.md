@@ -51,15 +51,15 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 2. 👑 Chongfu Jiangpin Emperor's Crown
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Particle Systems, Spine Animation, Custom Keyframe Controller
+> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Particle Systems, Spine 2D, Keyframe Controller, GSAP
 
-<!-- REPLACE WITH GIF OR DEMO LINK -->
-![Emperor's Crown Gameplay](https://via.placeholder.com/800x400/0f172a/38bdf8?text=Add+GIF+or+Video+Demo+Here)
+![Chongfu Feature & Base Gameplay](./assets/Chongfu.gif)
 
-**Technical Highlights & Features:**
-- Engineered custom symbol animation routines using a hybrid Sprite Sheet & Keyframe Controller approach for precise timing during high-payline win evaluations.
-- Architected multi-layered Spine character animations alongside synchronous high-performance particle effect emitters (coins, sparks) maintaining a steady 60 FPS.
-- Managed sequential keyframe time offsets and complex win-presentation state machines.
+**Technical Highlights & Core Features:**
+- **Color-Coded 3-Pot Accumulator Architecture:** Developed a multi-pot top housing array (Red for Jackpot Feature; Blue & Green for Chongfu Feature) supporting simultaneous, multi-feature triggers based on state machine evaluations.
+- **Dynamic Coin Trajectory & Particle Projection:** Engineered custom bezier trajectory math to launch coin particles from landing reel symbols directly into their corresponding color-matched pots.
+- **Dynamic Pot Scaling & Particle Explosions:** Implemented real-time pot expansion animations upon feature trigger, followed by heavy full-screen coin particle explosions and smooth transitions into the feature intro screens.
+- **Hybrid Animation & Sequential Timing:** Combined Sprite Sheet animations, Spine character rigs, and Custom Keyframe Controllers with precise sequential time offsets for high-payline win evaluations at a locked 60 FPS.
 
 ---
 
