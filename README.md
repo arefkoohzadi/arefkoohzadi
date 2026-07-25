@@ -69,6 +69,8 @@ Below are flagship slot projects developed for international markets, highlighti
 👉 **[🎮 Play Live Demo: Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)**  
 👉 **[🎮 Play Live Demo: Stellar Cash Chicken Fox 5x](https://igaming.lnw.com/games/stellar-cash-chicken-fox-5x-skillstar-us/)**
 
+![Egglink Feature](./assets/egglink.gif)
+
 **Technical Highlights & Architecture:**
 - **Pioneered & Built the Original "Egglink" Accumulator Mechanic:** Architected and developed the first-ever Egglink feature implementation starting with *Egglink Chicken Fox*, which established a core mechanics engine used in subsequent spin-off titles (e.g., *Egglink One Hundred XRA*, *Egglink Silver Pride*).
 - **Complex Projectile & Particle Physics:** Engineered the top-roof accumulator system where egg symbols launch particles/sprites from reels into the upper housing array. Built custom trajectory & acceleration math for the feature trigger phase, animating dozens of falling eggs covering the entire view smoothly at 60 FPS.
