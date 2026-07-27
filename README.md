@@ -66,6 +66,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ### 3. 🐔 Chicken Fox & Egglink Series (Original Feature Creator)
 > **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle VFX, Custom Trajectory Physics, Vue.js
 
+👉 **[🎮 Play Live Demo on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/EggLinkChickenFox/desktop_debug.html)**
 👉 **[🎮 Play Live Demo: Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)**  
 👉 **[🎮 Play Live Demo: Stellar Cash Chicken Fox 5x](https://igaming.lnw.com/games/stellar-cash-chicken-fox-5x-skillstar-us/)**
 
@@ -81,6 +82,8 @@ Below are flagship slot projects developed for international markets, highlighti
 
 ### 4. 🥞 Hotcakes Flip NStaxx
 > **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Spine 2D, Keyframe Controller, Sprite Sheet Animations, GSAP
+
+👉 **[🎮 Play Live Demo on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/Hotcakes/desktop_debug.html)**
 
 | Jackpot Pick Feature | Spatula Flip & Respin Mechanic |
 | :---: | :---: |
@@ -98,6 +101,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ### 5. 🥁 Thunder Drums Series (Leaping Lions & Samurai Storm)
 > **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Spine 2D API, Multi-Pot Accumulator, Particle VFX, GSAP
 
+👉 **[🎮 Play Live Demo on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderDrumsLeapingLions/desktop_debug.html)**
 👉 **[🎮 Play Live Demo: Thunder Drums Leaping Lions](https://igaming.lnw.com/games/thunder-drums-leaping-lions/)**  
 👉 **[🎮 Play Live Demo: Thunder Drums Samurai Storm](https://igaming.lnw.com/games/thunder-drums-samurai-storm-2/)**
 
