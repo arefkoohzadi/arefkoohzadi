@@ -41,6 +41,9 @@ Below are flagship slot projects developed for international markets, highlighti
 ### 1. 🐲 Thundering Shenlong (Original Feature Framework)
 > **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Particle VFX, Custom Keyframe Controller, GSAP
 
+👉 **[🎮 Play Live Demo Thundering Shenlong on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingShenlong/desktop_debug.html)**  
+👉 **[🎮 Play Live Demo Thundering Gorilla on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingGorilla/desktop_debug.html)**  
+👉 **[🎮 Play Live Demo Thundering Box Keno on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingBoxKeno/desktop_debug.html)**  
 👉 **[🎮 Play Live Demo on Light & Wonder (L&W)](https://igaming.lnw.com/games/thundering-shenlong-2/)**
 
 **Technical Highlights & Architecture:**
