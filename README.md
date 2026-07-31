@@ -23,10 +23,10 @@ During my 6-year tenure at [**Boomerang Studios**](https://boomerang-studios.com
 
 | Domain | Technologies & Workflows |
 |---|---|
-| **Game Engines & Graphics** | PixiJS, WebGL, Canvas API, Spine 2D, GSAP |
+| **Game Engines & Graphics** | PixiJS, WebGL, Canvas API, Spine 2D |
 | **VFX & Animation Systems** | Particle Systems (Custom & Emitters), Custom Keyframe Controllers, Sprite Sheet Animations, Hybrid Pipelines |
 | **Languages & Frameworks** | TypeScript, JavaScript (ES6+), Vue.js, HTML5, CSS3/SASS |
-| **Asset & Media Optimization** | WebP Texture Packing, FFmpeg Audio Sprite Generation, Lossless Compression |
+| **Asset & Media Optimization** | WebP Texture Packing, FFmpeg (Asset Processing), Lossless Compression |
 | **Architecture & Math** | GDM Response State Translation, Reel & Grid Mechanics, Numerical Analysis, MATLAB |
 | **Tools & Workflows** | Git, GitHub, VS Code, Jira, Agile/Scrum, Debugging Tools |
 
@@ -39,7 +39,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 1. 🐲 Thundering Shenlong (Original Feature Framework)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Particle VFX, Custom Keyframe Controller, GSAP
+> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Particle VFX, Custom Keyframe Controller
 
 👉 **[🎮 Play Live Demo Thundering Shenlong on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingShenlong/desktop_debug.html)**  
 👉 **[🎮 Play Live Demo Thundering Gorilla on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingGorilla/desktop_debug.html)**  
@@ -54,7 +54,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 2. 👑 Chongfu Jiangpin Emperor's Crown
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Particle Systems, Spine 2D, Keyframe Controller, GSAP
+> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Particle Systems, Spine 2D, Custom Keyframe Controller
 
 ![Chongfu Feature & Base Gameplay](./assets/Chongfu.gif)
 
@@ -84,7 +84,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 4. 🥞 Hotcakes Flip NStaxx
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Spine 2D, Keyframe Controller, Sprite Sheet Animations, GSAP
+> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Spine 2D, Custom Keyframe Controller, Sprite Sheet Animations
 
 👉 **[🎮 Play Live Demo on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/Hotcakes/desktop_debug.html)**
 
@@ -102,7 +102,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 5. 🥁 Thunder Drums Series (Leaping Lions & Samurai Storm)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Spine 2D API, Multi-Pot Accumulator, Particle VFX, GSAP
+> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Spine 2D API, Multi-Pot Accumulator, Particle VFX
 
 👉 **[🎮 Play Live Demo Thunder Drums Leaping Lions on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderDrumsLeapingLions/desktop_debug.html)**  
 👉 **[🎮 Play Live Demo Thunder Drums Serengeti Suns on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/thunderdrumsserengetisuns/desktop_debug.html)**  
@@ -115,3 +115,15 @@ Below are flagship slot projects developed for international markets, highlighti
 - **Color-Coded Multi-Pot Accumulator Mechanics:** Built a 3-drum top housing array with dynamic particle projection math—routing color-matched thunder symbols from base reels directly into their corresponding drums.
 - **Dynamic Drum Scaling & Multi-Feature Triggers:** Developed responsive scaling algorithms and drum-beating animations that dynamically trigger independent or combined bonus features based on state machine evaluations.
 - **Seamless Spine Scene Transitions:** Engineered smooth, state-driven visual transitions switching from the base game reel set to feature intro scenes using rich Spine 2D skeletal animations.
+
+---
+
+# 🏆 Key Achievements
+
+- 🎰 Delivered **30+ production-ready slot games** for international online casino platforms.
+- 🚀 Architected original game mechanics and feature frameworks that became the foundation for multiple game franchises and spin-off titles.
+- 🎮 Developed and shipped games for **Light & Wonder (L&W)** through outsourced development partnerships while meeting strict production and regulatory standards.
+- ⚡ Built high-performance rendering, animation, and state management systems capable of maintaining smooth **60 FPS** gameplay across desktop and mobile devices.
+- 🎨 Designed and implemented custom **Particle Systems**, **Visual Effects (VFX)**, **Animation Pipelines**, and **Custom Keyframe Controllers** using PixiJS.
+- 🧩 Engineered reusable feature architectures, accumulator systems, and game state translators to accelerate development across multiple game series.
+- 📈 Optimized asset pipelines, texture management, and rendering workflows to reduce loading times and improve runtime performance.
