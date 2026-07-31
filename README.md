@@ -67,7 +67,7 @@ Below are flagship slot projects developed for international markets, highlighti
 ---
 
 ### 3. 🐔 Chicken Fox & Egglink Series (Original Feature Creator)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle VFX, Custom Trajectory Physics, Vue.js
+> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle VFX, Custom Trajectory Physics
 
 👉 **[🎮 Play Live Demo Egg Link Chicken Fox on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/EggLinkChickenFox/desktop_debug.html)**  
 👉 **[🎮 Play Live Demo: Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)**  
