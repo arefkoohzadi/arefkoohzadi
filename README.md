@@ -15,7 +15,7 @@ During my 6-year tenure at [**Boomerang Studios**](https://boomerang-studios.com
 
 - 🎮 **Core Expertise:** WebGL/Canvas Rendering, Particle Systems & Custom Visual VFX, Custom Keyframe Controllers, Sprite Sheet & Spine Animations, Hybrid Animation Pipelines, Reel Mechanics & Game State Management.
 - 🧮 **Mathematical Foundation:** M.Sc. in Numerical Analysis — leveraging numerical algorithms to optimize rendering performance, sequential time offsets, particle pooling, and state transitions.
-- 🛠️ **Tech Focus:** TypeScript, JavaScript, PixiJS, Particle Systems, Spine 2D, Keyframe Animation Systems, GSAP, Vue.js, WebGL, FFmpeg.
+- 🛠️ **Tech Focus:** TypeScript, JavaScript, PixiJS, Particle Systems, Spine 2D, Keyframe Animation Systems, Vue.js, WebGL, FFmpeg.
 
 ---
 
