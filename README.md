@@ -1,129 +1,88 @@
-# Hi there, I'm Aref Koohzadi 👋 
-### Senior Front-End & Slot Game Developer | PixiJS & TypeScript Specialist
+# Aref Koohzadi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-koohzadi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aref.koohzadi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arefkoohzadi)
+### TypeScript developer for interactive front end, game clients, and Node.js services
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-koohzadi/)
+[![Email](https://img.shields.io/badge/Email-aref.koohzadi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aref.koohzadi@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B98_905_216_6314-1F2937?style=for-the-badge)](tel:+989052166314)
+[![Web CV](https://img.shields.io/badge/CV-Web_Development-0F172A?style=for-the-badge)](./cv/Aref-Koohzadi-Web.pdf)
+[![Game CV](https://img.shields.io/badge/CV-Game_Development-0F172A?style=for-the-badge)](./cv/Aref-Koohzadi-Games.pdf)
 
-## 🎰 About Me
+I build interactive browser software. From October 2020 to February 2026 I was a senior front-end game developer at [Boomerang Studios](https://boomerang-studios.com/), where I shipped 30+ slot games and multiple Keno games in TypeScript and PixiJS for [Light & Wonder](https://lnw.com/), SG Digital, [Lightning Box Games](https://www.lightningboxgames.com/), and GamesLab. Since April 2026 I have been a full-stack developer at Fidarkaran, building Vue.js and TypeScript interfaces and Node.js / Express APIs. The game CV follows the Boomerang record. The web CV leads with Fidarkaran.
 
-I am a **Front-End and Slot Game Developer** with **6+ years of experience** specializing in high-performance, real-money web-based slot games for international online casino platforms.
+## Web Development
 
-During my 6-year tenure at [**Boomerang Studios**](https://boomerang-studios.com/), I architected, developed, and delivered **30+ full-cycle slot games**. Through outsourced game development partnerships, I worked directly with tier-1 industry leaders including [**Light & Wonder (L&W)**](https://lnw.com/) and [**Lightning Box Games**](https://www.lightningboxgames.com/), building titles that fully comply with their strict engine, regulatory, and production standards.
+**Fidarkaran — Full-Stack Developer**  
+April 2026 — Present
 
-- 🎮 **Core Expertise:** WebGL/Canvas Rendering, Particle Systems & Custom Visual VFX, Custom Keyframe Controllers, Sprite Sheet & Spine Animations, Hybrid Animation Pipelines, Reel Mechanics & Game State Management.
-- 🧮 **Mathematical Foundation:** M.Sc. in Numerical Analysis — leveraging numerical algorithms to optimize rendering performance, sequential time offsets, particle pooling, and state transitions.
-- 🛠️ **Tech Focus:** TypeScript, JavaScript, PixiJS, Particle Systems, Spine 2D, Keyframe Animation Systems, Vue.js, WebGL, FFmpeg.
+- Develop and maintain APIs and backend services with Node.js and Express.
+- Build interfaces with Vue.js and TypeScript.
+- Take part in front-end and back-end architecture for the project.
+- Work in an Agile team on implementation, review, and delivery.
 
----
+**Boomerang Studios — Senior Front-End Game Developer**  
+October 2020 — February 2026 · Remote (Australia-based)
 
-## 🛠️ Tech Stack & Advanced Capabilities
+- Built reusable interface components with Vue.js and TypeScript.
+- Implemented responsive interfaces for internal tools and front-end features.
+- Built debugging and animation-preview tools used in the development workflow.
 
-| Domain | Technologies & Workflows |
-|---|---|
-| **Game Engines & Graphics** | PixiJS, WebGL, Canvas API, Spine 2D |
-| **VFX & Animation Systems** | Particle Systems (Custom & Emitters), Custom Keyframe Controllers, Sprite Sheet Animations, Hybrid Pipelines |
-| **Languages & Frameworks** | TypeScript, JavaScript (ES6+), Vue.js, HTML5, CSS3/SASS |
-| **Asset & Media Optimization** | WebP Texture Packing, FFmpeg (Asset Processing), Lossless Compression |
-| **Architecture & Math** | GDM Response State Translation, Reel & Grid Mechanics, Numerical Analysis, MATLAB |
-| **Tools & Workflows** | Git, GitHub, VS Code, Jira, Agile/Scrum, Debugging Tools |
+**Web stack:** TypeScript, JavaScript, Vue.js, HTML, CSS, Node.js, Express.
 
----
+Professional web work is in employer codebases. This profile has no public web application repositories.
 
-## 🌟 Featured Slot Games Showcase
+## Game Development
 
-Below are flagship slot projects developed for international markets, highlighting core feature architectures (Original Mechanics), live playable demos, and advanced engine components.
+Senior front-end game development at Boomerang Studios, October 2020 — February 2026, remote (Australia-based). The work covered 30+ slot games and multiple Keno games, integrated with Light & Wonder, SG Digital, Lightning Box, and GamesLab. The three entries below are original feature work. Further shipped titles are listed after them.
 
----
+### Thundering Shenlong
 
-### 1. 🐲 Thundering Shenlong (Original Feature Framework)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Particle VFX, Custom Keyframe Controller
+**Role:** Senior Front-End Game Developer · **Stack:** TypeScript, PixiJS, particle VFX, custom keyframe controller
 
-👉 **[🎮 Play Live Demo Thundering Shenlong on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingShenlong/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo Thundering Gorilla on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingGorilla/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo Thundering Box Keno on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingBoxKeno/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo on Light & Wonder (L&W)](https://igaming.lnw.com/games/thundering-shenlong-2/)**
+[Play the Boomerang demo](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingShenlong/desktop_debug.html) · [Play on Light & Wonder](https://igaming.lnw.com/games/thundering-shenlong-2/)
 
-**Technical Highlights & Architecture:**
-- **Architected the Benchmark "Thundering" Mechanic:** Designed and developed the original core feature architecture, state machine, and visual particle sequences for *Thundering Shenlong*. This framework became the foundational engine for several spin-off titles across the studio, including *Thundering Gorilla* and *Thundering Box Keno*.
-- **Cross-Genre Game Development (Keno Adaptation):** Adapted the core mechanics into the Keno domain to build *Thundering Box Keno*, successfully extending the framework beyond traditional slot engines.
-- **Visual FX & Audio Sync:** Engineered high-impact particle emitters, screen-shake sequences, and multi-stage audio feedback for Big Wins and bonus rounds.
+- Designed the original Thundering feature: state machine, core architecture, and particle sequences. The same framework was used for later titles, including Thundering Gorilla and Thundering Box Keno.
+- Adapted that mechanic into Keno for Thundering Box Keno.
+- Built particle emitters, screen-shake, and multi-stage audio feedback for big wins and bonus rounds.
 
----
+### Egglink Chicken Fox
 
-### 2. 👑 Chongfu Jiangpin Emperor's Crown
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Particle Systems, Spine 2D, Custom Keyframe Controller
+**Role:** Senior Front-End Game Developer · **Stack:** TypeScript, PixiJS, WebGL, particle VFX, custom trajectory physics
 
-![Chongfu Feature & Base Gameplay](./assets/Chongfu.gif)
+[Play the Boomerang demo](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/EggLinkChickenFox/desktop_debug.html)
 
-**Technical Highlights & Core Features:**
-- **Color-Coded 3-Pot Accumulator Architecture:** Developed a multi-pot top housing array (Red for Jackpot Feature; Blue & Green for Chongfu Feature) supporting simultaneous, multi-feature triggers based on state machine evaluations.
-- **Dynamic Coin Trajectory & Particle Projection:** Engineered custom bezier trajectory math to launch coin particles from landing reel symbols directly into their corresponding color-matched pots.
-- **Dynamic Pot Scaling & Particle Explosions:** Implemented real-time pot expansion animations upon feature trigger, followed by heavy full-screen coin particle explosions and smooth transitions into the feature intro screens.
-- **Hybrid Animation & Sequential Timing:** Combined Sprite Sheet animations, Spine character rigs, and Custom Keyframe Controllers with precise sequential time offsets for high-payline win evaluations at a locked 60 FPS.
+- Built the first Egglink accumulator, later used in titles such as Egglink One Hundred XRA and Egglink Silver Pride.
+- Implemented the roof accumulator: egg symbols send sprites from the reels into the upper housing, with custom trajectory and acceleration so many falling eggs stay smooth at 60 FPS.
+- Wrote client-side translators that turn game-server payloads into sequential accumulator steps and feature triggers.
 
----
+### Hotcakes
 
-### 3. 🐔 Chicken Fox & Egglink Series (Original Feature Creator)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, WebGL, Particle VFX, Custom Trajectory Physics
+**Role:** Senior Front-End Game Developer · **Stack:** TypeScript, PixiJS, Spine 2D, custom keyframe controller, sprite-sheet animation
 
-👉 **[🎮 Play Live Demo Egg Link Chicken Fox on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/EggLinkChickenFox/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo: Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)**  
-👉 **[🎮 Play Live Demo: Stellar Cash Chicken Fox 5x](https://igaming.lnw.com/games/stellar-cash-chicken-fox-5x-skillstar-us/)**
+[Play the Boomerang demo](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/Hotcakes/desktop_debug.html)
 
-![Egglink Feature](./assets/egglink.gif)
+![Hotcakes jackpot pick feature](./assets/hotcakes-jp.gif)
 
-**Technical Highlights & Architecture:**
-- **Pioneered & Built the Original "Egglink" Accumulator Mechanic:** Architected and developed the first-ever Egglink feature implementation starting with *Egglink Chicken Fox*, which established a core mechanics engine used in subsequent spin-off titles (e.g., *Egglink One Hundred XRA*, *Egglink Silver Pride*).
-- **Complex Projectile & Particle Physics:** Engineered the top-roof accumulator system where egg symbols launch particles/sprites from reels into the upper housing array. Built custom trajectory & acceleration math for the feature trigger phase, animating dozens of falling eggs covering the entire view smoothly at 60 FPS.
-- **Game Family Evolution:** Developed multiple high-performing titles in the franchise including *Chicken Fox Jr* and *Stellar Cash Chicken Fox 5x Skillstar*.
-- **GDM Response Translation:** Developed robust backend state translators to process dynamic payload responses into sequential visual accumulator steps and multi-stage feature triggers.
+- Built the jackpot pick feature from Spine 2D skeletal animation, custom keyframe controllers, and sprite-sheet animation.
+- Implemented the respin mechanic: landed pancake symbols are flipped with a spatula animation.
+- Packed textures as WebP atlases, with initial loads under two seconds on mobile and desktop.
 
----
+### More shipped titles
 
-### 4. 🥞 Hotcakes Flip NStaxx
-> **Role:** Lead Front-End Game Developer | **Stack:** TypeScript, PixiJS, Spine 2D, Custom Keyframe Controller, Sprite Sheet Animations
+- [Thundering Gorilla](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingGorilla/desktop_debug.html)
+- [Thundering Box Keno](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderingBoxKeno/desktop_debug.html)
+- [Chicken Fox Jr](https://igaming.lnw.com/games/chicken-fox-jr-on/)
+- [Stellar Cash Chicken Fox 5x](https://igaming.lnw.com/games/stellar-cash-chicken-fox-5x-skillstar-us/)
+- [Thunder Drums: Leaping Lions](https://igaming.lnw.com/games/thunder-drums-leaping-lions/)
+- [Thunder Drums: Serengeti Suns](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/thunderdrumsserengetisuns/desktop_debug.html)
+- [Thunder Drums: Samurai Storm](https://igaming.lnw.com/games/thunder-drums-samurai-storm-2/)
 
-👉 **[🎮 Play Live Demo on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/Hotcakes/desktop_debug.html)**
+**Game stack:** TypeScript, JavaScript (ES6+), Vue.js, PixiJS, WebGL, Spine animation, 2D visual effects. Tools: Git, GitHub, Bitbucket, VS Code, Jira, Agile, Scrum.
 
-| Jackpot Pick Feature | Spatula Flip & Respin Mechanic |
-| :---: | :---: |
-| ![Jackpot Feature](./assets/hotcakes-jp.gif) | ![Respins Feature](./assets/hotcakes-respins.gif) |
+## Shared engineering practice
 
-**Technical Highlights & Core Features:**
-- **Hybrid Animation Jackpot System:** Architected the interactive Jackpot Pick Feature utilizing a synchronized combination of **Spine 2D skeletal animations**, **Custom Keyframe Controllers**, and **Sprite Sheet Animations** to deliver rich visual feedback.
-- **Interactive Spatula Flip & Cooking Physics:** Developed the signature Respin mechanic where landed pancake symbols are flipped using a spatula sprite animation to convey a realistic cooking/baking transition upon landing.
-- **Collector Mini-Feature Trigger:** Built accumulator state logic to track spatula symbols; collecting 6 pancake symbols dynamically triggers a specialized bonus mini-feature round.
-- **Custom Reel Spin Physics & Easing:** Implemented custom deceleration algorithms and elastic bounce easing for realistic symbol stops.
-- **Asset Pipeline Optimization:** Optimized texture atlases using **WebP image formats**, achieving sub-2-second initial loading times across mobile and desktop platforms.
+The same working habits show up in both roles: TypeScript, reusable components, and Agile delivery with design, backend, and QA. On games, that also meant 60 FPS rendering on mobile devices and desktop browsers, reusable reel setups, and client-side game logic in PixiJS.
 
----
+## Education
 
-### 5. 🥁 Thunder Drums Series (Leaping Lions & Samurai Storm)
-> **Role:** Lead Front-End Developer | **Stack:** TypeScript, PixiJS, Spine 2D API, Multi-Pot Accumulator, Particle VFX
-
-👉 **[🎮 Play Live Demo Thunder Drums Leaping Lions on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderDrumsLeapingLions/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo Thunder Drums Serengeti Suns on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/thunderdrumsserengetisuns/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo Thunder Drums Samurai Storm on Boomerang Studios](https://boomerang-studios.s3.ap-southeast-2.amazonaws.com/games/ThunderDrumsSamuraiStorm/desktop_debug.html)**  
-👉 **[🎮 Play Live Demo: Thunder Drums Leaping Lions](https://igaming.lnw.com/games/thunder-drums-leaping-lions/)**  
-👉 **[🎮 Play Live Demo: Thunder Drums Samurai Storm](https://igaming.lnw.com/games/thunder-drums-samurai-storm-2/)**
-
-**Technical Highlights & Architecture:**
-- **Pioneered the "Thunder Drums" Framework:** Architected the inaugural UI layout and core feature engine for *Thunder Drums Leaping Lions* (the first title with this unique visual layout for L&W), which became the foundation for subsequent series entries such as *Thunder Drums Samurai Storm* and *Thunder Drums Serengeti Sun*.
-- **Color-Coded Multi-Pot Accumulator Mechanics:** Built a 3-drum top housing array with dynamic particle projection math—routing color-matched thunder symbols from base reels directly into their corresponding drums.
-- **Dynamic Drum Scaling & Multi-Feature Triggers:** Developed responsive scaling algorithms and drum-beating animations that dynamically trigger independent or combined bonus features based on state machine evaluations.
-- **Seamless Spine Scene Transitions:** Engineered smooth, state-driven visual transitions switching from the base game reel set to feature intro scenes using rich Spine 2D skeletal animations.
-
----
-
-# 🏆 Key Achievements
-
-- 🎰 Delivered **30+ production-ready slot games** for international online casino platforms.
-- 🚀 Architected original game mechanics and feature frameworks that became the foundation for multiple game franchises and spin-off titles.
-- 🎮 Developed and shipped games for **Light & Wonder (L&W)** through outsourced development partnerships while meeting strict production and regulatory standards.
-- ⚡ Built high-performance rendering, animation, and state management systems capable of maintaining smooth **60 FPS** gameplay across desktop and mobile devices.
-- 🎨 Designed and implemented custom **Particle Systems**, **Visual Effects (VFX)**, **Animation Pipelines**, and **Custom Keyframe Controllers** using PixiJS.
-- 🧩 Engineered reusable feature architectures, accumulator systems, and game state translators to accelerate development across multiple game series.
-- 📈 Optimized asset pipelines, texture management, and rendering workflows to reduce loading times and improve runtime performance.
+M.Sc. in Numerical Analysis, University of Mazandaran, September 2013 – August 2016. English: professional working proficiency.
