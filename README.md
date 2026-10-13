@@ -1,6 +1,6 @@
 # Aref Koohzadi
 
-### TypeScript developer for interactive front end, game clients, and Node.js services
+### TypeScript and JavaScript developer for game clients and Vue dashboards
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aref-koohzadi/)
 [![Email](https://img.shields.io/badge/Email-aref.koohzadi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aref.koohzadi@gmail.com)
@@ -8,17 +8,18 @@
 [![Web CV](https://img.shields.io/badge/CV-Web_Development-0F172A?style=for-the-badge)](./cv/Aref-Koohzadi-Web.pdf)
 [![Game CV](https://img.shields.io/badge/CV-Game_Development-0F172A?style=for-the-badge)](./cv/Aref-Koohzadi-Games.pdf)
 
-I build interactive browser software. From October 2020 to February 2026 I was a senior front-end game developer at [Boomerang Studios](https://boomerang-studios.com/), where I shipped 30+ slot games and multiple Keno games in TypeScript and PixiJS for [Light & Wonder](https://lnw.com/), SG Digital, [Lightning Box Games](https://www.lightningboxgames.com/), and GamesLab. Since April 2026 I have been a full-stack developer at Fidarkaran, building Vue.js and TypeScript interfaces and Node.js / Express APIs. The game CV follows the Boomerang record. The web CV leads with Fidarkaran.
+I build interactive browser software. From October 2020 to February 2026 I was a senior front-end game developer at [Boomerang Studios](https://boomerang-studios.com/), where I shipped 30+ slot games and multiple Keno games in TypeScript and PixiJS for [Light & Wonder](https://lnw.com/), SG Digital, [Lightning Box Games](https://www.lightningboxgames.com/), and GamesLab. Since April 2026 I have been a full-stack developer at Fidarkaran, shipping Vue 3 interface work in JavaScript on an industrial equipment monitoring dashboard, plus targeted Node.js and Express API changes. The game CV follows the Boomerang record. The web CV leads with Fidarkaran.
 
 ## Web Development
 
 **Fidarkaran — Full-Stack Developer**  
 April 2026 — Present
 
-- Develop and maintain APIs and backend services with Node.js and Express.
-- Build interfaces with Vue.js and TypeScript.
-- Take part in front-end and back-end architecture for the project.
-- Work in an Agile team on implementation, review, and delivery.
+- Migrated a production Vue 3 dashboard from Vue CLI 5 to Vite 5 and upgraded Vue from 3.2 to 3.5.
+- Replaced Bootstrap, jQuery, and Popper with Tailwind CSS and shared design tokens, including a reusable dropdown.
+- Built Chart.js time-series and spectrum controls: fullscreen, zoom, empty states, date range, and cursor readouts.
+- Shipped an asset tree with skeleton loading and live status, including the API that serves the tree, plus focused Express changes for log pagination, startup when a document database is unavailable, organization name checks, and session-ended messaging.
+- Landed the work as small pull requests: 89 merged between April and October 2026, using Conventional Commits.
 
 **Boomerang Studios — Senior Front-End Game Developer**  
 October 2020 — February 2026 · Remote (Australia-based)
@@ -27,7 +28,7 @@ October 2020 — February 2026 · Remote (Australia-based)
 - Implemented responsive interfaces for internal tools and front-end features.
 - Built debugging and animation-preview tools used in the development workflow.
 
-**Web stack:** TypeScript, JavaScript, Vue.js, HTML, CSS, Node.js, Express.
+**Web stack:** Vue 3, JavaScript, Vite, Vue Router, Vuex, Tailwind CSS, Chart.js, Axios. Node.js and Express for the API changes above. TypeScript remains the language of the game work.
 
 Professional web work is in employer codebases. This profile has no public web application repositories.
 
